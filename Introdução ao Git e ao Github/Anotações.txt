@@ -1,0 +1,3 @@
+#Cógidos do Git
+
+Git Clone + Link = Push do Readm.me e outros commits para a Maquina local.
